@@ -10,7 +10,6 @@
 # On my honor, Samuel Kofi Afrifa, this programming assignment is my own work
 # and I have not provided this code to any other student.
 
-
 def main():
     # Print my initials in large stylized letters.
 
